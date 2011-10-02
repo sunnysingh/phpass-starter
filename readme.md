@@ -5,5 +5,7 @@ The purpose of this project is to get more developers to move away from function
 # What's Inside
 
 `PasswordHash.php`: The actual Phpass framework.
+
 `signup.php`: Example code for creating a hash of a user's password.
+
 `login.php`: Example code for checking a user's password against a stored hash.
